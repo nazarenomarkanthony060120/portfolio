@@ -6,7 +6,7 @@ import { ArrowRight, ExternalLink, Github } from 'lucide-react'
 import Image from 'next/image'
 
 import fundManagementImg from '../assets/images/fund_management_system.jpg'
-import minimartInventoryImg from '../assets/images/Minimart_Inventory_System.png'
+import minimartInventoryImg from '../assets/images/minimart_inventory_system.png'
 import studentExamImg from '../assets/images/student_exam_system.jpg'
 import adminDashboardImg from '../assets/images/admin_dashboard_system.jpg'
 import faceRecognitionImg from '../assets/images/face_recognition_system.jpg'
